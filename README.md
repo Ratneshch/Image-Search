@@ -14,8 +14,8 @@ An **Image Search Website** that allows users to search for images seamlessly us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-search-website.git
-   cd image-search-website
+   git clone https://github.com/yourusername/image-search.git
+   cd image-search
    ```
 
 2. Open the project folder and add your API key (if applicable):
